@@ -58,3 +58,7 @@ annotated/
 Thumbs.db
 .vscode/
 .idea/
+
+# Local experiment folders / large working files
+Experiments/
+Innovation Application/
